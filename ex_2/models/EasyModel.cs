@@ -1,6 +1,6 @@
 using System.Linq;
 
-namespace ex_2.models
+namespace EX_2.models
 {
     public class EasyModel
     {

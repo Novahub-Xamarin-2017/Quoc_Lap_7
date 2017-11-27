@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ex_2.models
+namespace EX_2.models
 {
     public class DataGenerator
     {
