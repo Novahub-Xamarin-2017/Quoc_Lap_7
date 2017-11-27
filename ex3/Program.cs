@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using EX3.controllers;
-using EX3.models;
+using Exercise3.controllers;
+using Exercise3.models;
 
-namespace EX3
+namespace Exercise3
 {
     class Program
     {
@@ -51,7 +51,7 @@ namespace EX3
                     author,
                     AverageRate = g.Average(b => b.Rate),
                     BookCount = g.Count(),
-                    CatalogExample = g.Aggregate("", (a, b) => a += catalog.Name + " "),
+                    CatalogExample = g.Aggregate("", (a, b) => a + (catalog.Name + " ")),
                 };
             Console.WriteLine("\nAuthor details : ");
             authorDetails.ToList().ForEach(Console.WriteLine);
@@ -67,7 +67,7 @@ namespace EX3
                     catalog.Id,
                     catalog.Name,
                     AverageRate = catalogGroup.Average(b => b.Rate),
-                    BookExample = catalogGroup.Take(3).Aggregate("",(a,b) => a += b.Title + " "),
+                    BookExample = catalogGroup.Take(3).Aggregate("",(a,b) => a + (b.Title + " ")),
                     BookCount = catalogGroup.Count()
                 };
             Console.WriteLine("\nCatalogs Detail : ");

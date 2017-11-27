@@ -1,4 +1,4 @@
-﻿namespace EX3.models
+﻿namespace Exercise3.models
 {
     public class Catalog : EasyModel
     {
