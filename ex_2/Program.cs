@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using EX_2.models;
+using Exercise2.models;
 
-namespace EX_2
+namespace Exercise2
 {
     class Program
     {

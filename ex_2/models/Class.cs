@@ -1,4 +1,4 @@
-﻿namespace EX_2.models
+﻿namespace Exercise2.models
 {
     public class Class : EasyModel
     {
