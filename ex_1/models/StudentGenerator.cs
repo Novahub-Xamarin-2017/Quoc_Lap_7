@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ex_1.models
+namespace EX_1.models
 {
     public class StudentGenerator
     {
