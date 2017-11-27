@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using ex3.models;
+using EX3.models;
 
-namespace ex3.controllers
+namespace EX3.controllers
 {
     public class DataGenegator
     {

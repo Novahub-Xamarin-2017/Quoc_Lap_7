@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using ex3.controllers;
-using ex3.models;
+using EX3.controllers;
+using EX3.models;
 
-namespace ex3
+namespace EX3
 {
     class Program
     {

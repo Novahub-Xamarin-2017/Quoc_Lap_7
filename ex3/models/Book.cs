@@ -1,4 +1,4 @@
-﻿namespace ex3.models
+﻿namespace EX3.models
 {
     public class Book : EasyModel
     {
