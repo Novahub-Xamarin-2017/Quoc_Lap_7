@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Linq;
-using EX_1.models;
+using Exercise1.models;
 
-namespace EX_1
+namespace Exercise1
 {
     class Program
     {

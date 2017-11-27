@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EX_1.models
+namespace Exercise1.models
 {
     public class Student : EasyModel
     {
