@@ -1,4 +1,6 @@
-﻿namespace Exercise2.models
+﻿using Exercise2.Models.BaseModel;
+
+namespace Exercise2.Models
 {
     public class Class : EasyModel
     {

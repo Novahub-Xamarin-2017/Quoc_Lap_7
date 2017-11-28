@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Exercise2.models;
+using Exercise2.Models;
 
 namespace Exercise2
 {

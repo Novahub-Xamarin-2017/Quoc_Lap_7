@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Exercise2.models
+namespace Exercise2.Models
 {
     public class DataGenerator
     {
