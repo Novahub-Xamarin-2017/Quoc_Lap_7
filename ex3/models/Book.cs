@@ -1,4 +1,6 @@
-﻿namespace Exercise3.models
+﻿using Exercise3.Models.BaseModel;
+
+namespace Exercise3.Models
 {
     public class Book : EasyModel
     {

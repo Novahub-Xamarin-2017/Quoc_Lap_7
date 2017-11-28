@@ -42,11 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="controllers\DataGenegator.cs" />
-    <Compile Include="models\Author.cs" />
-    <Compile Include="models\Book.cs" />
-    <Compile Include="models\Catalog.cs" />
-    <Compile Include="models\EasyModel.cs" />
+    <Compile Include="Controllers\DataGenegator.cs" />
+    <Compile Include="Models\Author.cs" />
+    <Compile Include="Models\Book.cs" />
+    <Compile Include="Models\Catalog.cs" />
+    <Compile Include="Models\BaseModel\EasyModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

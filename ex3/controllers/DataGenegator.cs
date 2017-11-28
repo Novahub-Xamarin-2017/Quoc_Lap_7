@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Exercise3.models;
+using Exercise3.Models;
 
-namespace Exercise3.controllers
+namespace Exercise3.Controllers
 {
     public class DataGenegator
     {

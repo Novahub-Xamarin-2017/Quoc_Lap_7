@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Exercise3.controllers;
-using Exercise3.models;
+using Exercise3.Controllers;
+using Exercise3.Models;
 
 namespace Exercise3
 {
