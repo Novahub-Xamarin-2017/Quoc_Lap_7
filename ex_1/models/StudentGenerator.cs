@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Exercise1.models
+namespace Exercise1.Models
 {
     public class StudentGenerator
     {

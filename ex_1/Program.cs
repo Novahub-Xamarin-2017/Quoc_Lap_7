@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using Exercise1.models;
+using Exercise1.Models;
 
 namespace Exercise1
 {

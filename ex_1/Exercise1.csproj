@@ -42,9 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="models\EasyModel.cs" />
-    <Compile Include="models\Student.cs" />
-    <Compile Include="models\StudentGenerator.cs" />
+    <Compile Include="Models\Base\EasyModel.cs" />
+    <Compile Include="Models\Student.cs" />
+    <Compile Include="Models\StudentGenerator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

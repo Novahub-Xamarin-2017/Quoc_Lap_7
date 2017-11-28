@@ -1,6 +1,7 @@
 ﻿using System;
+using Exercise1.Models.Base;
 
-namespace Exercise1.models
+namespace Exercise1.Models
 {
     public class Student : EasyModel
     {
